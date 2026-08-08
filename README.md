@@ -16,13 +16,6 @@ Learning how machines work, one layer at a time.
 * Git / GitHub
 * How things work
 
-## Projects
-
-* `pm` — Project manager in C
-* `window manager` — Simple commands to manage windows
-* `terminal drawer` — Terminal drawing with double buffering
-* `database` — Currently paused while learning database concepts
-
 ```c
 #include <stdio.h>
 
@@ -32,3 +25,11 @@ int main(void)
     return 0;
 }
 ```
+
+
+## Projects
+
+* `pm` — Project manager in C
+* `window manager` — Simple commands to manage windows
+* `terminal drawer` — Terminal drawing with double buffering
+* `database` — Currently paused while learning database concepts
