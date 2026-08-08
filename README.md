@@ -6,14 +6,21 @@ Learning how machines work, one layer at a time.
 > Beneath every abstraction, there is a machine worth understanding.
 
 ```c
-#include <stdio.h>                                     000101010100110010010011101001
-
 int main(void)
 {
-    printf("Hello, World!\n");
-    return 0;
+    return 42;
 }
 ```
+> There is always another layer beneath the one you understand
+
+```assembly
+push rbp
+mov rbp, rsp
+mov eax, 0x2a
+pop rbp 
+ret
+```
+
 
 ### Currently focused project
 
