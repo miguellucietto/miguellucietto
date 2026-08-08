@@ -5,6 +5,16 @@ Learning how machines work, one layer at a time.
 
 > Beneath every abstraction, there is a machine worth understanding.
 
+```c
+#include <stdio.h>                                     000101010100110010010011101001
+
+int main(void)
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
 ### Currently focused project
 
 [pm](https://github.com/miguellucietto/pm)
@@ -15,17 +25,6 @@ Learning how machines work, one layer at a time.
 * Linux
 * Git / GitHub
 * How things work
-
-```c
-#include <stdio.h>
-
-int main(void)
-{
-    printf("Hello, World!\n");
-    return 0;
-}
-```
-
 
 ## Projects
 
