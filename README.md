@@ -1,4 +1,4 @@
-# Miguel Scheffer Lucietto
+# Miguel Scheffer Lucietto `8`
 
 I like understanding what happens beneath abstractions.
 Learning how machines work, one layer at a time.
@@ -24,18 +24,14 @@ ret
 
 ### Currently focused project
 
-[pm](https://github.com/miguellucietto/pm)
+[pm](https://github.com/miguellucietto/tdr)
 
 ## Learning
 
 * C
 * Linux
 * Git / GitHub
-* How things work
+* Emacs
+* ...
 
-## Projects
-
-* `pm` — Project manager in C
-* `window manager` — Simple commands to manage windows
-* `terminal drawer` — Terminal drawing with double buffering
-* `database` — Currently paused while learning database concepts
+  
