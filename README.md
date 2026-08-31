@@ -37,8 +37,8 @@ ret
 
 ## Working in
 
-* [`pm`](github.com/miguellucietto/pm)
-* [`mt`](github.com/miguellucietto/mt)
-* [`dr`](github.com/miguellucietto/dr)
-* [`defer`](github.com/miguellucietto/defer-c)
+* [`pm`](https://github.com/miguellucietto/pm)
+* [`mt`](https://github.com/miguellucietto/mt)
+* [`dr`](https://github.com/miguellucietto/dr)
+* [`defer`](https://github.com/miguellucietto/defer-c)
   
