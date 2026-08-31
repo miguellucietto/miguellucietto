@@ -4,8 +4,7 @@ headline: "Software Development | Memory Management | Graphics"
 ---
 
 phone: +55 (49) 99981-0206
-
-e-mail: [miguelluciett7@gmail.com](malito:miguellucietto7@gmail.com)
+e-mail: [miguellucietto7@gmail.com](malito:miguellucietto7@gmail.com)
 
 
 I like understanding what happens beneath abstractions.
