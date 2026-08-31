@@ -1,4 +1,12 @@
-# Miguel Scheffer Lucietto `8`
+---
+title: "Miguel Scheffer Lucietto"
+headline: "Software Development | Memory Management | Graphics"
+---
+
+phone: +55 (49) 99981-0206
+
+e-mail: [miguelluciett7@gmail.com](malito:miguellucietto7@gmail.com)
+
 
 I like understanding what happens beneath abstractions.
 Learning how machines work, one layer at a time.
@@ -20,11 +28,6 @@ mov eax, 0x2a
 pop rbp 
 ret
 ```
-
-
-### Currently focused project
-
-[pm](https://github.com/miguellucietto/tdr)
 
 ## Learning
 
