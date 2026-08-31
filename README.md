@@ -34,6 +34,13 @@ ret
 * Linux
 * Git / GitHub
 * Emacs
+* Algorithms
 * ...
 
+## Working in
+
+* [`pm`](github.com/miguellucietto/pm)
+* [`mt`](github.com/miguellucietto/mt)
+* [`dr`](github.com/miguellucietto/dr)
+* [`defer`](github.com/miguellucietto/defer-c)
   
